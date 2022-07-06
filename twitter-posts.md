@@ -15,3 +15,4 @@ This is a list of the content I shared about Machine Learning in Twitter
 | 28-06-2022.   |Lifecycle of a Machine learning Project|https://twitter.com/Sumanth_077/status/1541370080264482817?s=20&t=QdAqPFYFeSBQkLe8wRNPzA|
 | 29-06-2022.   |Top 5 Repositories to learn Machine Learning|https://twitter.com/Sumanth_077/status/1542032628424925184?s=20&t=1rvYYpxD5SjPLr76TQAiyg|
 | 04-06-2022.   |Most Commonly used Pandas Functions|https://twitter.com/Sumanth_077/status/1543844565978755072?s=20&t=1rvYYpxD5SjPLr76TQAiyg|
+| 06-06-2022.   |Most Commonly used Python Libraries for Machine Learning|https://twitter.com/Sumanth_077/status/1544569344230711296?s=20&t=COVhWWVy8BuGdTy6koKBZw|
