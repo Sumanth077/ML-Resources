@@ -14,5 +14,7 @@ This is a list of the content I shared about Machine Learning in Twitter
 | 20-06-2022.   |Top 5 Applications of Artificial Intelligence in the Healthcare Industry|https://twitter.com/Sumanth_077/status/1538898139867799552?s=20&t=NkRPnOPbgKfvuTdRPMchWg|
 | 28-06-2022.   |Lifecycle of a Machine learning Project|https://twitter.com/Sumanth_077/status/1541370080264482817?s=20&t=QdAqPFYFeSBQkLe8wRNPzA|
 | 29-06-2022.   |Top 5 Repositories to learn Machine Learning|https://twitter.com/Sumanth_077/status/1542032628424925184?s=20&t=1rvYYpxD5SjPLr76TQAiyg|
-| 04-06-2022.   |Most Commonly used Pandas Functions|https://twitter.com/Sumanth_077/status/1543844565978755072?s=20&t=1rvYYpxD5SjPLr76TQAiyg|
-| 06-06-2022.   |Most Commonly used Python Libraries for Machine Learning|https://twitter.com/Sumanth_077/status/1544569344230711296?s=20&t=COVhWWVy8BuGdTy6koKBZw|
+| 04-07-2022.   |Most Commonly used Pandas Functions|https://twitter.com/Sumanth_077/status/1543844565978755072?s=20&t=1rvYYpxD5SjPLr76TQAiyg|
+| 06-07-2022.   |Most Commonly used Python Libraries for Machine Learning|https://twitter.com/Sumanth_077/status/1544569344230711296?s=20&t=COVhWWVy8BuGdTy6koKBZw|
+| 08-07-2022.   |List of skills that you can start learning if you are a beginner in Data Science|https://twitter.com/Sumanth_077/status/1545294127230685186?s=20&t=jsmS0BQXsmu9GzYsSks5qg
+| 09-07-2022.   |Difference between AI vs ML vs DL vs Data SCience|https://twitter.com/Sumanth_077/status/1545658144147120129?s=20&t=jsmS0BQXsmu9GzYsSks5qg
